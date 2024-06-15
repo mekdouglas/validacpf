@@ -1,0 +1,18 @@
+[
+  {
+    "kind": "column",
+    "name": "Valida CPF",
+    "description": "Valida CPF",
+    "author": "Douglas Macedo <mek.douglas@gmail.com>",
+    "params": [
+      {
+        "name": "number",
+        "displayName": "Número do CPF",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "boolean"
+    }
+  }
+]
